@@ -1,3 +1,35 @@
+
+#bg{
+  border: 5px solid green;
+  border-radius: 5px;
+  margin-left: 600px;
+}
+
+#header{
+  color: purple;
+  margin-left: 500px;
+}
+
+#descript{
+  text-decoration: underline;
+  color: yellow;
+}
+
+#bigone{
+  border: 2px solid red;
+  border-radius: 10px;
+  margin-left: 450px;
+}
+
+#newshit{
+  color: blue;
+  text-decoration: overline;
+}
+
+#footer{
+  margin-left: 550px;
+}
+
 .row {
   width:auto;
 }
